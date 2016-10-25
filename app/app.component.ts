@@ -20,7 +20,7 @@ title = Config.TITLE_PAGE;
 videos : Array<Video>;
 constructor(){
 this.videos = [
-new Video(1,"Test","www.test.com","Test	Description"),
+new Video(1,"Test","www.test.com","TestDescription"),
 new Video(2,"Test	2","www.test2.com")
 ]
 }
